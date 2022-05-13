@@ -1,2 +1,1 @@
-# tindog
-tindog website with html and css
+TinDog Starting Files
