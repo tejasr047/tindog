@@ -22,7 +22,7 @@ body {
 }
 .brand-name {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .list {
   margin-right: 20px;
@@ -47,14 +47,10 @@ body {
   line-height: 1.5;
   font-size: 3.5rem;
 }
-.download-button-apple {
-  margin-right: 30px;
-  margin-bottom: 60px;
+.download-button {
+  padding: 10px;
+  margin: 20px 20px 70px;
 }
-.download-button-android {
-  margin-bottom: 60px;
-}
-
 
 
 
@@ -166,11 +162,7 @@ width: 300px;
   line-height: 1.5;
   margin-bottom: 50px;
 }
-.cta-button-a {
-  padding: 10px;
-  margin: 20px;
-}
-.cta-button-b {
+.cta-button {
   padding: 10px;
   margin: 20px;
 }
@@ -207,5 +199,11 @@ width: 300px;
   }
   .m-list {
     text-align: left;
+  }
+  .brand-name {
+    font-size: 2.5rem;
+  }
+  .m-list {
+    font-size: 18px;
   }
 }
