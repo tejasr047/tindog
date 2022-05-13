@@ -22,7 +22,7 @@ body {
 }
 .brand-name {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 .list {
   margin-right: 20px;
@@ -47,8 +47,11 @@ body {
   line-height: 1.5;
   font-size: 3.5rem;
 }
-.download-button {
+.download-button-apple {
   margin-right: 30px;
+  margin-bottom: 60px;
+}
+.download-button-android {
   margin-bottom: 60px;
 }
 
@@ -204,8 +207,5 @@ width: 300px;
   }
   .m-list {
     text-align: left;
-  }
-  .download-button {
-    margin-right: 0;
   }
 }
