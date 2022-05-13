@@ -137,6 +137,9 @@ width: 300px;
   color: white;
   font-size: 30px;
 }
+.price-header:hover {
+  background-color: #ff4c68;
+}
 .price-li {
   padding: 5px;
 }
